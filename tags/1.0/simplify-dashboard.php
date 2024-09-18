@@ -1,12 +1,12 @@
 <?php
 /*
 Plugin Name: Simplify Dashboard
-Plugin URI: https://mytchall.dev
+Plugin URI: https://mytchall.dev/projects/wordpress-simplify-dashboard/
 Description: Adds a toggle button to the admin bar to simplify the dashboard by hiding specific menu items.
 Version: 1.0
 Requires PHP: 7.4
 Author: Mytchall Bransgrove
-Author URI: https://mytchall.dev
+Author URI: https://mytchall.dev/about/
 License: GPLv2 or later
 */
 
