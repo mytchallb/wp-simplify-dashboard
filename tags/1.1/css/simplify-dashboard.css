@@ -1,0 +1,16 @@
+/* simplify-dashboard.css */
+
+/* Hide separators in the admin menu */
+.wp-menu-separator {
+  display: none !important;
+}
+
+/* Hide specific menu items */
+#adminmenu .simplify-dashboard-hidden {
+  display: none !important;
+}
+
+/* Ensure the toggle button is always visible */
+#wp-admin-bar-simplify-dashboard-toggle {
+  display: block !important;
+}
