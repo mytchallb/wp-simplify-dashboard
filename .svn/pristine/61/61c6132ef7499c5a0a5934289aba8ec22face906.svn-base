@@ -1,9 +1,9 @@
 === Simplify Dashboard ===
 Contributors: mytchb
-Tags: admin, simple, hide, elements, menu
+Tags: admin, simple, interface, hide, elements, menu
 Requires at least: 5.0
 Tested up to: 6.6.2
-Stable tag: 1.1
+Stable tag: 1.0
 Requires PHP: 7.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -28,19 +28,16 @@ Choose which items are hidden in the Settings>Simplify Dashboard page by writing
 
 == Screenshots ==
 
-1. The admin screen with nothing hidden.
-2. View of the admin screen with the toggle activated.
+1. View of the admin screen with the toggle activated.
+2. The admin screen with nothing hidden.
 3. The settings page for Simplify Dashboard.
 
 == Changelog ==
-
-= 1.1 =
-* Improving code quality.
 
 = 1.0 =
 * Initial release.
 
 == Upgrade Notice ==
 
-= 1.1 =
-* Improving code quality.
+= 1.0 =
+* Initial Release.

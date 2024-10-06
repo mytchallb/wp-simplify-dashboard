@@ -28,8 +28,8 @@ Choose which items are hidden in the Settings>Simplify Dashboard page by writing
 
 == Screenshots ==
 
-1. View of the admin screen with the toggle activated.
-2. The admin screen with nothing hidden.
+1. The admin screen with nothing hidden.
+2. View of the admin screen with the toggle activated.
 3. The settings page for Simplify Dashboard.
 
 == Changelog ==
