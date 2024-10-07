@@ -47,6 +47,11 @@ function simplify_dashboard_settings_page_html() {
         <h1>Simplify Dashboard Settings</h1>
         <p>Simplify the WordPress admin experience by hiding seldom-used menu items.<br />A handy toggle provides quick access to show or hide items.</p>
 
+        <select>
+            <option value="1">All roles</option>
+            <option value="0">Administrator</option>
+        </select>
+
         <form method="post">
             <?php wp_nonce_field('simplify_dashboard_settings'); ?>
 
@@ -63,6 +68,8 @@ Yoast SEO
 
             <h2>Hide anything by ID</h2>
             <p>Hide an element by specifying it's HTML ID. One ID per line, e.g., <code>wp-admin-bar-wp-logo</code>.</p>
+            <a class="button" href="#">Select element</a>
+
             <div style="max-width: 500px;">
                 <textarea name="simplify_dashboard_topbar_items" rows="5" cols="20" class="large-text"><?php echo esc_textarea($topbar_items); ?></textarea>
             </div>

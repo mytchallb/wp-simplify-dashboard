@@ -9,3 +9,17 @@ Choose which items are hidden in the Settings>Simplify Dashboard page by writing
 ## Development
 
 Develop in the *trunk* folder and deploy versions under the *tags* folder.
+
+### Temporary WordPress environments
+
+`wp-env start`
+
+`wp-env stop`
+
+`wp-env clean all` - resets db
+
+`wp-env destroy` - resets docker containers
+
+Username: admin
+
+Password: password

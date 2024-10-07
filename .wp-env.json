@@ -1,0 +1,16 @@
+{
+  "plugins": [
+    "./trunk",
+    "https://downloads.wordpress.org/plugin/classic-editor.1.6.2.zip"
+  ],
+  "themes": [],
+  "config": {
+    "WP_DEBUG": true,
+    "SCRIPT_DEBUG": true,
+    "WP_ENVIRONMENT_TYPE": "development"
+  },
+  "mappings": {
+    "wp-content/uploads": "./wp-uploads"
+  },
+  "port": 8888
+}
