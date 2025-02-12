@@ -23,9 +23,3 @@ Develop in the *trunk* folder and deploy versions under the *tags* folder.
 Username: admin
 
 Password: password
-
-## Deployment
-
-Once ready to commit files to SVN, run `svn ci -m "<update message here>"`
-
-See [How to use Subversion](https://developer.wordpress.org/plugins/wordpress-org/how-to-use-subversion/).
