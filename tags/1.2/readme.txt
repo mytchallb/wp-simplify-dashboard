@@ -2,7 +2,7 @@
 Contributors: mytchb
 Tags: admin, simple, hide, elements, menu
 Requires at least: 5.0
-Tested up to: 6.7.2
+Tested up to: 6.6.2
 Stable tag: 1.2
 Requires PHP: 7.2
 License: GPLv2 or later
@@ -33,6 +33,9 @@ Choose which items are hidden in the Settings>Simplify Dashboard page by writing
 3. The settings page for Simplify Dashboard.
 
 == Changelog ==
+
+= 1.2 =
+* Fix variable error displaying
 
 = 1.1 =
 * Improving code quality.
